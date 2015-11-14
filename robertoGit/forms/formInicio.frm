@@ -1,6 +1,14 @@
 encapsulation:60,
 items:[
 {
+location:"116,271",
+onActionMethodID:"-1",
+size:"80,20",
+text:"button",
+typeid:7,
+uuid:"1A479D1E-C324-4745-8F80-ED8C92483738"
+},
+{
 height:480,
 partType:5,
 typeid:19,
