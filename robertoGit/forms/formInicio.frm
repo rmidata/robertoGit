@@ -9,7 +9,7 @@ typeid:7,
 uuid:"0A0AC6F2-F68B-49BA-B762-C6493ACD60B0"
 },
 {
-location:"116,271",
+location:"86,226",
 onActionMethodID:"9174D09A-2986-46B2-86F6-67D7EDD14146",
 size:"80,20",
 text:"Exit",
