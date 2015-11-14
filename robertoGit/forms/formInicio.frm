@@ -4,7 +4,7 @@ items:[
 location:"424,233",
 onActionMethodID:"-1",
 size:"126,45",
-text:"button",
+text:"OK",
 typeid:7,
 uuid:"0A0AC6F2-F68B-49BA-B762-C6493ACD60B0"
 },
