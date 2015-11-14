@@ -2,9 +2,9 @@ encapsulation:60,
 items:[
 {
 location:"116,271",
-onActionMethodID:"-1",
+onActionMethodID:"9174D09A-2986-46B2-86F6-67D7EDD14146",
 size:"80,20",
-text:"button",
+text:"Exit",
 typeid:7,
 uuid:"1A479D1E-C324-4745-8F80-ED8C92483738"
 },
