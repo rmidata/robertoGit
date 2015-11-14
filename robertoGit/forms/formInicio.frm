@@ -1,0 +1,13 @@
+encapsulation:60,
+items:[
+{
+height:480,
+partType:5,
+typeid:19,
+uuid:"FFB5B592-9556-4A09-94FD-B64B372FEA11"
+}
+],
+name:"formInicio",
+showInMenu:true,
+typeid:3,
+uuid:"16E92762-01A7-4322-A839-182E2944F72E"
